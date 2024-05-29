@@ -1,7 +1,13 @@
 {
     "name": "muhaiminshihab/ctaroutes",
-    "description": "This package provide artisan routes to avoid using terminal.",
+    "description": "CtaRoutes is a Laravel package that provides a set of convenient routes for common Artisan commands.",
     "type": "library",
+    "license": "MIT",
+    "version": "1.0.1",
+    "keywords": [
+        "laravel", "laravel-framework", "laravel-package", "composer-package", 
+        "laravel-routes", "cta-routes", "laravel-artisan-commands"
+    ],
     "require": {
         "php": "^7.3|^8.0",
         "illuminate/support": "^8.0|^9.0|^10.0"
@@ -20,7 +26,8 @@
     },
     "authors": [
         {
-            "name": "Muhaimin Shihab"
+            "name": "Muhaimin Shihab",
+            "email": "hostforshihab@gmail.com"
         }
     ],
     "minimum-stability": "dev",

@@ -4,7 +4,7 @@ namespace MuhaiminShihab\CtaRoutes;
 
 use Illuminate\Support\ServiceProvider;
 
-class YourPackageNameServiceProvider extends ServiceProvider
+class CtaRoutesServiceProvider extends ServiceProvider
 {
     /**
      * Register services.
