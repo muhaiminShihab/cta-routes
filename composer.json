@@ -1,0 +1,28 @@
+{
+    "name": "muhaiminshihab/ctaroutes",
+    "description": "This package provide artisan routes to avoid using terminal.",
+    "type": "library",
+    "require": {
+        "php": "^7.3|^8.0",
+        "illuminate/support": "^8.0|^9.0|^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MuhaiminShihab\\CtaRoutes\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "MuhaiminShihab\\CtaRoutes\\CtaRoutesServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhaimin Shihab"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
