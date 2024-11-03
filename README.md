@@ -91,7 +91,7 @@ This package is open-sourced software licensed under the MIT license.
 ## Forkers
 [![Forkers repo roster for @muhaiminShihab/cta-routes](https://reporoster.com/forks/notext/muhaiminShihab/cta-routes)](https://github.com/muhaiminShihab/cta-routes/network/members)
 
-### Contributors
+## Contributors
 <a href="https://github.com/muhaiminShihab/cta-routes/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=muhaiminShihab/cta-routes" />
 </a>
