@@ -3,7 +3,7 @@
     "description": "CtaRoutes is a Laravel package that provides a set of convenient routes for common Artisan commands.",
     "type": "library",
     "license": "MIT",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "keywords": [
         "laravel", "laravel-framework", "laravel-package", "composer-package", 
         "laravel-routes", "cta-routes", "laravel-artisan-commands"
