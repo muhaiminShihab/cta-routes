@@ -67,13 +67,15 @@ composer require muhaiminshihab/ctaroutes
     GET /cta-routes/migrate-seed
     ```
 
-## Example
+## Usage
 
 To use these routes, simply visit them in your browser. For example, to clear the application cache, go to:
 
 ```
 http://your-app-url/cta-routes/cache-clear
 ```
+
+A flash message will notify you of the action's result in the `message` session. For example: "Application optimized and cache cleared."
 
 ## Security
 
