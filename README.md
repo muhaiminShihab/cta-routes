@@ -16,7 +16,7 @@ composer require muhaiminshihab/ctaroutes
     Create a symbolic link from `public/storage` to `storage/app/public` using the `storage:link` command.
 
     ```bash
-    GET /storage-link
+    GET /cta-routes/storage-link
     ```
 
 - Clear Optimized Files
@@ -24,7 +24,7 @@ composer require muhaiminshihab/ctaroutes
     Remove the compiled class file, caches, and more using the `optimize:clear` command.
 
     ```bash
-    GET /optimize-clear
+    GET /cta-routes/optimize-clear
     ```
 
 - Clear Application Cache
@@ -32,7 +32,7 @@ composer require muhaiminshihab/ctaroutes
     Clear the application cache using the `cache:clear` command.
 
     ```bash
-    GET /cache-clear
+    GET /cta-routes/cache-clear
     ```
 
 - Cache Configuration
@@ -40,7 +40,7 @@ composer require muhaiminshihab/ctaroutes
     Create a cache file for faster configuration loading using the `config:cache` command.
 
     ```bash
-    GET /config-cache
+    GET /cta-routes/config-cache
     ```
 
 - Run Database Migrations
@@ -48,7 +48,7 @@ composer require muhaiminshihab/ctaroutes
     Run the database migrations using the `migrate` command.
 
     ```bash
-    GET /migrate
+    GET /cta-routes/migrate
     ```
 
 - Run Fresh Database Migrations
@@ -56,7 +56,7 @@ composer require muhaiminshihab/ctaroutes
     Drop all tables and re-run all migrations using the `migrate:fresh` command.
 
     ```bash
-    GET /migrate-fresh
+    GET /cta-routes/migrate-fresh
     ```
 
 - Seed Database
@@ -64,7 +64,7 @@ composer require muhaiminshihab/ctaroutes
     Seed the database with records using the `db:seed` command.
 
     ```bash
-    GET /migrate-seed
+    GET /cta-routes/migrate-seed
     ```
 
 ## Example
@@ -72,7 +72,7 @@ composer require muhaiminshihab/ctaroutes
 To use these routes, simply visit them in your browser. For example, to clear the application cache, go to:
 
 ```
-http://your-app-url/cache-clear
+http://your-app-url/cta-routes/cache-clear
 ```
 
 ## Security
