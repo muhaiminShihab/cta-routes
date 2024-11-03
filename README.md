@@ -79,11 +79,18 @@ http://your-app-url/cta-routes/cache-clear
 
 These routes execute powerful Artisan commands and should be used with caution. It's recommended to protect these routes with appropriate middleware or use them in a development environment only.
 
-## Authors
-
-- [@muhaiminShihab](https://www.github.com/muhaiminShihab)
-
 ## Licence
 
 This package is open-sourced software licensed under the MIT license.
+
+## Stargazers
+[![Stargazers repo roster for @muhaiminShihab/cta-routes](https://reporoster.com/stars/notext/muhaiminShihab/cta-routes)](https://github.com/muhaiminShihab/cta-routes/stargazers)
+
+## Forkers
+[![Forkers repo roster for @muhaiminShihab/cta-routes](https://reporoster.com/forks/notext/muhaiminShihab/cta-routes)](https://github.com/muhaiminShihab/cta-routes/network/members)
+
+### Contributors
+<a href="https://github.com/muhaiminShihab/cta-routes/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=muhaiminShihab/cta-routes" />
+</a>
 
